@@ -1,5 +1,7 @@
 # Welcome to Mailpile! #
 
+[![Join the chat at https://gitter.im/denim2x/Mailpile](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/denim2x/Mailpile?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://img.shields.io/travis/mailpile/Mailpile/master.svg)](https://travis-ci.org/mailpile/Mailpile)
 
 
